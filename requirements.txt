@@ -1,1 +1,8 @@
 python-dotenv==1.2.2
+httpx==0.28.1
+fastapi[standard]==0.163.1
+uvicorn[standard]==0.54.0
+
+# Validation and application configuration
+pydantic==2.14.3
+pydantic-settings==2.16.2
